@@ -1,4 +1,4 @@
-# ◆ clawd-wallpapers
+# clawd-wallpapers
 
 dot-matrix wallpapers with clawd. 14 scenes, each in 1080p and 4k.
 
